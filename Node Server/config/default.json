@@ -1,0 +1,7 @@
+{
+    "PORT": 9298,
+    "host": "localhost",
+    "user": "root",
+    "password": "manager",
+    "database": "ems"
+}
